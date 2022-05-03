@@ -1,0 +1,11 @@
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/bin/Debug/net6.0/Zadanie2
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/bin/Debug/net6.0/Zadanie2.dll
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/bin/Debug/net6.0/Zadanie2.pdb
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.csproj.AssemblyReference.cache
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.AssemblyInfoInputs.cache
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.AssemblyInfo.cs
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.csproj.CoreCompileInputs.cache
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.dll
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/refint/Zadanie2.dll
+/Users/jacek/Documents/Notatki IV/Moje/PWŚW/LAB3/Zadanie2/obj/Debug/net6.0/Zadanie2.pdb
